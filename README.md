@@ -15,6 +15,12 @@ Analyzed feature importance — product size and enclosure were key predictors.
 
 Source: Blue Book for Bulldozers – Kaggle
 
+🤖 Ideal Model
+
+Source : https://drive.google.com/file/d/1UZeJ6adu3Q15QXnGjv83OP_hQ2J3jvz2/view?usp=drive_link
+
 🛠️ Tech Stack
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+
