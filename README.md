@@ -7,7 +7,7 @@ Built a Random Forest regression model to predict bulldozer sale prices.
 
 Performed data cleaning, feature engineering, and exploratory data analysis.
 
-Evaluated model using RMSLE, achieving a score of 0.26.
+Evaluated model using RMSLE, achieving a score of 0.24.
 
 Analyzed feature importance — product size and enclosure were key predictors.
 
